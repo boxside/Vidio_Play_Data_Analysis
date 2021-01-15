@@ -65,3 +65,7 @@ https://docs.google.com/presentation/d/1jHOLbXEOrlFBB-pfF09s5Dy6_8WeDtBv/edit?us
 *Results : 
 
 ![Figure 1](https://github.com/boxside/Vidio_Play_Data_Analysis/blob/main/figure/Picture1.png)
+## Tableau's Dashboard
+
+![Figure 1](https://github.com/boxside/Vidio_Play_Data_Analysis/blob/main/figure/dash1.png)
+![Figure 1](https://github.com/boxside/Vidio_Play_Data_Analysis/blob/main/figure/dash2.png)
