@@ -62,7 +62,7 @@ https://docs.google.com/presentation/d/1jHOLbXEOrlFBB-pfF09s5Dy6_8WeDtBv/edit?us
 * user's cluster segmentation
 * divided by 12 segmetntation
 * machine learning using kmodes with Cao's Method
-*Results : 
+* Results : 
 
 ![Figure 1](https://github.com/boxside/Vidio_Play_Data_Analysis/blob/main/figure/Picture1.png)
 ## Tableau's Dashboard
