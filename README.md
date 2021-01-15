@@ -1,3 +1,6 @@
+
+
+![Figure 1](https://github.com/boxside/Vidio_Play_Data_Analysis/blob/main/figure/1200px-Logo_Vidio.png)
 # Vidio Play Data Analysis
   ** disclaimer: this dataset i got from vidio.com data analyst online exercise
   
